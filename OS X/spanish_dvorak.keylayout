@@ -24,11 +24,11 @@
         <keyMapSelect mapIndex="1">
             <modifier keys="anyShift caps?"/>
         </keyMapSelect>
+        <keyMapSelect mapIndex="1">
+            <modifier keys="caps"/>
+        </keyMapSelect>
         <keyMapSelect mapIndex="2">
             <modifier keys="anyOption"/>
-        </keyMapSelect>
-        <keyMapSelect mapIndex="3">
-            <modifier keys="caps"/>
         </keyMapSelect>
         <keyMapSelect mapIndex="4">
             <modifier keys="anyShift caps? anyOption"/>
